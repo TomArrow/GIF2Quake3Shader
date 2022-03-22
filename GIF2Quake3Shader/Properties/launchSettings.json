@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GIF2Quake3Shader": {
+      "commandName": "Project",
+      "commandLineArgs": "1.gif"
+    }
+  }
+}
